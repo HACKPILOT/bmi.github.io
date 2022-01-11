@@ -1,0 +1,93 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: linear-gradient(red, yellow);
+    
+    width: 450px;
+    font-size: large;
+    font-weight: 500;
+    max-width: fit-content;
+    font-size: 20px;
+    
+
+}
+h1{
+    font-family:cursive;
+    color: rgb(50, 146, 190);
+}
+.container{
+    
+        width: 400px;
+        height: 945px;
+        margin-left: 450px;
+        margin-top: 65px;
+        background-color:rgba(94, 92, 92, 0.521);
+        padding-left: 30px;
+        padding-right: 30px;
+        text-align: center;
+        border-radius: 50px;
+        margin-bottom: 65px;
+    
+
+}
+
+#height, #weight {
+    margin-top: 120px;
+    width: 150px;
+    height: 10px;
+    margin-top: 30px;
+    font-weight: 500;
+    font-size: 13px;
+    border-radius: 13px;
+    text-align: center;
+    
+}
+
+#weight-guide{
+   
+    background-color: rgba(246, 247, 243, 0.164);
+    width: 400px;
+    margin-left: auto;
+   
+}
+
+#results{
+    display: flex;
+    font-size: 21PX;
+    margin-left: 50%;
+    margin-right: 60%;
+    margin-top: 20px;
+    color: rgb(4, 9, 77);
+    text-align: center;
+    justify-content: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 500;
+    font-style: bold;
+}
+
+button{
+    width: 150px;
+    height: 45px;
+    margin-left: 120px;
+    margin-right: 70px;
+    margin-top: 25px;
+    border-radius: 5px;
+    border-style: none;
+    background-color: blue;
+    color: #fff;
+    font-size: 25px;
+    font-size: larger;
+    
+}
+
+h3{
+    padding-left: 15px;
+    padding-top: 25px;
+    font-weight: 750;
+}
+p{
+    font-style: italic;
+    font-weight: 500;
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+}
